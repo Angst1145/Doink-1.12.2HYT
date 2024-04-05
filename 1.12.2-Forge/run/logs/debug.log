@@ -1,0 +1,49 @@
+[11:35:15] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugininecraftFormatting
+[11:35:15] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugininecraftFormatting
+[11:35:15] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformersinecraftFormatting
+[11:35:15] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugininecraftFormatting
+[11:35:15] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugininecraftFormatting
+[11:35:15] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugininecraftFormatting
+[11:35:15] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugininecraftFormatting
+[11:35:15] [main/DEBUG] [FML]: All fundamental core mods are successfully locatedinecraftFormatting
+[11:35:15] [main/DEBUG] [FML]: Discovering coremodsinecraftFormatting
+[11:35:15] [main/INFO] [FML]: Searching E:\水印\ansght\1.12.2-Forge\run\.\mods for modsinecraftFormatting
+[11:35:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweakerinecraftFormatting
+[11:35:15] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugininecraftFormatting
+[11:35:15] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugininecraftFormatting
+[11:35:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweakerinecraftFormatting
+[11:35:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweakerinecraftFormatting
+[11:35:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweakerinecraftFormatting
+[11:35:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweakerinecraftFormatting
+[11:35:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweakerinecraftFormatting
+[11:35:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapperinecraftFormatting
+[11:35:15] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformersinecraftFormatting
+[11:35:15] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformerinecraftFormatting
+[11:35:15] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformerinecraftFormatting
+[11:35:15] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformerinecraftFormatting
+[11:35:15] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformerinecraftFormatting
+[11:35:15] [main/DEBUG] [FML]: Injection completeinecraftFormatting
+[11:35:15] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}inecraftFormatting
+[11:35:15] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugininecraftFormatting
+[11:35:16] [main/DEBUG] [FML]: Loading deobfuscation resource C:\gradle-4.10-rc-1\caches\minecraft\de\oceanlabs\mcp\mcp_snapshot\20171003\1.12.2\srgs\srg-mcp.srg with 36076 recordsinecraftFormatting
+[11:35:19] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thinginecraftFormatting
+[11:35:19] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfullyinecraftFormatting
+[11:35:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapperinecraftFormatting
+[11:35:19] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformersinecraftFormatting
+[11:35:19] [main/DEBUG] [FML]: Injection completeinecraftFormatting
+[11:35:19] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}inecraftFormatting
+[11:35:19] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugininecraftFormatting
+[11:35:19] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfullyinecraftFormatting
+[11:35:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweakerinecraftFormatting
+[11:35:19] [main/DEBUG] [FML]: Loaded 213 rules from AccessTransformer config file forge_at.cfginecraftFormatting
+[11:35:19] [main/DEBUG] [FML]: Validating minecraftinecraftFormatting
+[11:35:20] [main/DEBUG] [FML]: Minecraft validated, launching...inecraftFormatting
+[11:35:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweakerinecraftFormatting
+[11:35:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweakerinecraftFormatting
+[11:35:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweakerinecraftFormatting
+[11:35:20] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}inecraftFormatting
+[11:35:21] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Player630inecraftFormatting
+[11:35:24] [main/DEBUG] [FML]: Creating vanilla freeze snapshotinecraftFormatting
+[11:35:24] [main/DEBUG] [FML]: Vanilla freeze snapshot createdinecraftFormatting
+[11:35:25] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:inecraftFormatting
+[11:35:25] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4inecraftFormatting

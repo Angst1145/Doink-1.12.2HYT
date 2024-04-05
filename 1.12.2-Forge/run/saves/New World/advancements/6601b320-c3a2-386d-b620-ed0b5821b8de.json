@@ -1,0 +1,34 @@
+{
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-07-29 14:08:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2023-07-29 14:08:09 +0800",
+      "diamond_helmet": "2023-07-29 14:08:09 +0800",
+      "diamond_chestplate": "2023-07-29 14:08:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2023-07-29 14:08:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2023-07-29 14:08:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "swampland": "2023-07-29 14:08:09 +0800"
+    },
+    "done": false
+  }
+}

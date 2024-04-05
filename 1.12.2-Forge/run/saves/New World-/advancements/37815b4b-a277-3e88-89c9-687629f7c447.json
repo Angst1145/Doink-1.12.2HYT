@@ -1,0 +1,27 @@
+{
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2023-08-26 13:59:57 +0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-08-26 13:59:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2023-08-26 13:59:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2023-08-26 13:58:41 +0800",
+      "river": "2023-08-26 14:00:50 +0800"
+    },
+    "done": false
+  }
+}
